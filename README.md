@@ -5,13 +5,13 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Python Log Analyzer </b>
+- <b>Python Log Analyzer - Designed to analyze log files with a focus on /var/log/auth, identifying key information such as command usage, user authntication changes and security alerts.</b>
   - [Python Log Analyzer](https://github.com/jlyx94/pythonvarlog)
 
 
 <h2> 🤳 Connect with me:</h2>
 
-<a href="https://www.linkedin.com/in/joshmadakor/">Linkedin</a><br/>
+<a href="https://www.linkedin.com/in/jeremiah-lee-6b8912264/">Linkedin</a><br/>
 
 
 <!--
