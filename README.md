@@ -7,7 +7,8 @@
 
 - <b>Python Log Analyzer - Designed to analyze log files with a focus on /var/log/auth, identifying key information such as command usage, user authntication changes and security alerts.</b>
   - [Python Log Analyzer](https://github.com/jlyx94/pythonvarlog)
-
+- <b>Network Remote Control - Automation script that allows cyber units to run script from their devices but would be executed by the remote server anonymously.</b>
+  - [Python Log Analyzer](https://github.com/jlyx94/networkrc)
 
 <h2> 🤳 Connect with me:</h2>
 
