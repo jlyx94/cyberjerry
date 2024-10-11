@@ -9,6 +9,9 @@
   - [Python Log Analyzer](https://github.com/jlyx94/pythonvarlog)
 - <b>Network Remote Control - Automation script that allows cyber units to run script from their devices but would be executed by the remote server anonymously.</b>
   - [Network Remote Control](https://github.com/jlyx94/networkrc)
+- <b>Info Extractor - Bash script that digs into the system to pull out key details, including IP and MAC addresses. A report is also included to explain the importance of knowing the extracted key details.</b>
+  - [Info Extractor](https://github.com/jlyx94/infoextractor)
+
 
 <h2> 🤳 Connect with me:</h2>
 
