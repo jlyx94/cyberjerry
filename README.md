@@ -16,6 +16,11 @@
 - <b>Penetration Testing - Bash Script that does a comprehensive network device mapping, identifying ports, services and vulnerabilities with a user defined network range. Utilises tools like Nmap NSE, Medusa and Searchsploit.</b>
   - [Penetration Testing](https://github.com/jlyx94/pentest)
 
+<h2>⚡ Other Projects:</h2>
+
+- <b> A&E Assignment generator - Uipath workflow that assigns registered nurses and auxilliary healthcare workers based on their skills and abilities, into to the various areas of the emergency department.</b>
+  - [A&E Assignment Generator](https://github.com/jlyx94/ANEassignment)
+  
 <h2> 🤳 Connect with me:</h2>
 
 <a href="https://www.linkedin.com/in/jeremiah-lee-6b8912264/">Linkedin</a><br/>
