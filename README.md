@@ -1,5 +1,5 @@
 # cyberjerry
-<h1>Hey there, I'm Jeremiah! <br/> Cybersecurity Professional and Emergency Nurse</a></h1> 
+<h1>Hey there, I'm Jeremiah! <br/> Cybersecurity Hobbyist and Emergency Nurse</a></h1> 
 
 
 
